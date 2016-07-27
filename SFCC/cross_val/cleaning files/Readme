@@ -1,0 +1,7 @@
+1. Run reduce_features.py on train and test files.
+
+2. Run cleanDateTime.py on train and test files.
+
+3. Run categorize_train.py and categorize_test.py.
+
+ 
